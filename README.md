@@ -2,7 +2,7 @@
 
 My react boilerplate with fast building system.
 
-# Using
+## Using
 
     $ # for npm
     $ npm i
